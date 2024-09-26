@@ -92,7 +92,7 @@
         </tbody>
     </table>
 
-    <div id="appointmentFormContainer" style="display: none;">
+<div id="appointmentFormContainer" style="display: none;">
         <h2>Добавить новую запись</h2>
         <form id="appointmentForm">
             <input type="text" id="clientName" class="form-input" placeholder="Имя клиента" required>
